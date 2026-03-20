@@ -38,7 +38,7 @@ The solution follows a layered architecture:
 ```
 DVLD/
 ├── DVLD_System        → Presentation Layer (UI)
-├── DVLD_Business      → Business Logic Layer
+├── DC (DVLD_Business)     → Business Logic Layer
 ├── DVLD_DataAccess    → Data Access Layer
 ```
 
