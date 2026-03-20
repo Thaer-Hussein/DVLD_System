@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\DC\bin\Debug\DC.dll
+C:\Users\user\source\repos\DC\bin\Debug\DC.pdb
+C:\Users\user\source\repos\DC\obj\Debug\DVLD_Buisness.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DC\obj\Debug\DVLD_Buisness.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DC\obj\Debug\DC.dll
+C:\Users\user\source\repos\DC\obj\Debug\DC.pdb
+C:\Users\user\source\repos\DC\bin\Debug\DVLD_DataAccess.dll
+C:\Users\user\source\repos\DC\bin\Debug\DVLD_DataAccess.pdb
+C:\Users\user\source\repos\DC\obj\Debug\DVLD_Bui.E5CEC4E3.Up2Date
